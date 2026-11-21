@@ -3,7 +3,7 @@
 Project description: This is our first collaborative project.
 
 Team members:
-- Student A: სახელი და გვარი
-- Student B: სახელი და გვარი
+- Student A: დავით ნასრაშვილი
+- Student B: შალვა ხასია
 
 Project status: In Progress
